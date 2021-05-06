@@ -121,7 +121,7 @@ function ChatMessage(props) {
 
   return (<>
     <div className={`message ${messageClass}`}>
-      <img src={ photoURL || 'https://i.pravatar.cc/300' } />
+      <img src={ photoURL || 'https://i.pravatar.cc/300' } alt='pic' />
       <p>{text}</p>
     </div>
   </>)
