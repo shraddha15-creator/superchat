@@ -31,7 +31,7 @@ body {
   flex-direction: column;
   justify-content: center;
   min-height: 100vh;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(87, 87, 87);
 }
 
 main {
@@ -124,7 +124,7 @@ p {
   padding: 10px 20px;
   border-radius: 25px;
   position: relative;
-  color: white;
+  color: black;
   text-align: center;
 }
 
